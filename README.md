@@ -1,1 +1,1 @@
-# chatgbt
+# chatgpt
